@@ -1,7 +1,7 @@
 # Independant research project 
 ## Analysing the interrelationship between industry specific sales and social stress as measured by Google Trends data
 
-This propject is a continuation of my Statistics Canada Fall 2020 hackathon concept. 
+This propject is a continuation of my Statistics Canada Fall 2020 hackathon proposal. 
 
 Using tested infodemiological principles this paper proposes models to estimate levels of percieved stress by the general population in three general areas: sleep, employment, and anxiety.
 
