@@ -3,8 +3,6 @@
 
 This propject is a continuation of my Statistics Canada Fall 2020 hackathon proposal. 
 
-![taMDI](./images/taMDI.png)
-
 Using tested infodemiological principles this paper proposes models to estimate levels of percieved stress by the general population in three general areas: sleep, employment, and anxiety.
 
 ![database](./images/database.PNG)
@@ -15,6 +13,8 @@ Using tested infodemiological principles this paper proposes models to estimate 
 * Gross domestic product by industry, Sept 2020 (Stats Canada, 2020)
 * Tobacco, sales and inventories, monthly production (x1000) (Stats Canada, 2020)
 * Monthly retail sales of beer, wine and liquor stores in Canada from 2015 to 2020 (in billion Canadian dollars) (Statista, 2020)
+
+![taMDI](./images/taMDI.png)
 
 ## Tools/Packages:
 * Excel
