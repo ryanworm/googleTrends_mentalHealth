@@ -22,7 +22,6 @@ Using tested infodemiological principles this paper proposes models to estimate 
 * LaTeX
 
 ![polychart](./images/poly_chart.png)
-![database](./images/distress_df.png)
 
 
 
