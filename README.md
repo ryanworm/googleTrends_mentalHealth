@@ -5,6 +5,8 @@ This propject is a continuation of my Statistics Canada Fall 2020 hackathon prop
 
 Using tested infodemiological principles this paper proposes models to estimate levels of percieved stress by the general population in three general areas: sleep, employment, and anxiety.
 
+![database](./images/database.PNG)
+
 ## Data sources: 
 * Google Trends
 * Mental health characteristics and suicidal thoughts (Stats Canada, 2019)
@@ -18,6 +20,11 @@ Using tested infodemiological principles this paper proposes models to estimate 
 * Python
 * HTML
 * LaTeX
+
+![polychart](./images/poly_chart.png)
+![database](./images/distress_df.png)
+
+
 
 ## Key findings: 
 There were multiple economic indicators which showed significant correlation to the proposed models. 
