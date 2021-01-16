@@ -17,6 +17,7 @@ Using tested infodemiological principles this paper proposes models to estimate 
 * Jupyter Lab
 * Python
 * HTML
+* LaTeX
 
 ## Key findings: 
 There were multiple economic indicators which showed significant correlation to the proposed models. 
