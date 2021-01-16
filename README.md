@@ -1,21 +1,23 @@
-# Analysing the interrelationship between industry specific sales and social stress as measured by Google Trends data
+# Independant research project 
+Analysing the interrelationship between industry specific sales and social stress as measured by Google Trends data
 
-This propject built off a propsed conccept to Statistics Canada as part of their Fall 2020 hackathon. 
+This propject is a continuation of a propsed concept to Statistics Canada as part of their Fall 2020 hackathon. 
 
 Using tested infodemiological principles this paper proposes models to estimate levels of percieved stress by the general population in three general areas: sleep, employment, and anxiety.
 
-# Data sources: 
-Google Trends
-Mental health characteristics and suicidal thoughts (Stats Canada, 2019)*
-Gross domestic product by industry, Sept 2020 (Stats Canada, 2020)
-Tobacco, sales and inventories, monthly production (x1000) (Stats Canada, 2020)
-Monthly retail sales of beer, wine and liquor stores in Canada from 2015 to 2020 (in billion Canadian dollars) (Statista, 2020)
+## Data sources: 
+* Google Trends
+* Mental health characteristics and suicidal thoughts (Stats Canada, 2019)*
+* Gross domestic product by industry, Sept 2020 (Stats Canada, 2020)
+* Tobacco, sales and inventories, monthly production (x1000) (Stats Canada, 2020)
+* Monthly retail sales of beer, wine and liquor stores in Canada from 2015 to 2020 (in billion Canadian dollars) (Statista, 2020)
 
-# Tools/Packages:
+## Tools/Packages:
 Python
 HTML
 
-# Key findings: There were multiple economic indicators which showed significant correlation
+## Key findings: 
+There were multiple economic indicators which showed significant correlation
 to the proposed models. Distinct patterns of acute and chronic stress may inferred from the
 time adjusted and non-adjusted mental distress index and represent economical manifestations of
 physiological acute and chronic stress. The correlation to chronic stress on alcohol (R2 = .22),
