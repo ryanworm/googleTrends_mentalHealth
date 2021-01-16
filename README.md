@@ -3,6 +3,8 @@
 
 This propject is a continuation of my Statistics Canada Fall 2020 hackathon proposal. 
 
+![taMDI](./images/taMDI.PNG)
+
 Using tested infodemiological principles this paper proposes models to estimate levels of percieved stress by the general population in three general areas: sleep, employment, and anxiety.
 
 ![database](./images/database.PNG)
