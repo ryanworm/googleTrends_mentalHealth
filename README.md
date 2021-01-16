@@ -36,4 +36,4 @@ There were multiple economic indicators which showed significant correlation to 
   * Tobacco had no relation to chronic stress (R2 = 0) while cannabis still maintained a moderate correlation (R2 = .22) with chronic stress.
 
 ## Conclusion:
-Further research is indicated to evaluate the interrelationship between monthly Google search volume and indicators of mental health distress. Further development to automate data extraction and aggregation in progress, as well as weighting acute and chronic stress coefficients.  
+Further research is indicated to evaluate the interrelationship between monthly Google search volume and indicators of mental health distress. Ongoing development includes automation of data extraction, aggregation, future stress forecasting (+1 month), and accurate weighting of acute and chronic stress coefficients.  
