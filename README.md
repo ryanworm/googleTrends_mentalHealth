@@ -1,5 +1,5 @@
 # Independant research project 
-Analysing the interrelationship between industry specific sales and social stress as measured by Google Trends data
+## Analysing the interrelationship between industry specific sales and social stress as measured by Google Trends data
 
 This propject is a continuation of my Statistics Canada Fall 2020 hackathon concept. 
 
