@@ -14,6 +14,7 @@ Using tested infodemiological principles this paper proposes models to estimate 
 * Tobacco, sales and inventories, monthly production (x1000) (Stats Canada, 2020)
 * Monthly retail sales of beer, wine and liquor stores in Canada from 2015 to 2020 (in billion Canadian dollars) (Statista, 2020)
 
+## Mental Health Distress Index
 ![taMDI](./images/taMDI.png)
 
 ## Tools/Packages:
