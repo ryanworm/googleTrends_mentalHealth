@@ -7,7 +7,7 @@ Using tested infodemiological principles this paper proposes models to estimate 
 
 ## Data sources: 
 * Google Trends
-* Mental health characteristics and suicidal thoughts (Stats Canada, 2019)*
+* Mental health characteristics and suicidal thoughts (Stats Canada, 2019)
 * Gross domestic product by industry, Sept 2020 (Stats Canada, 2020)
 * Tobacco, sales and inventories, monthly production (x1000) (Stats Canada, 2020)
 * Monthly retail sales of beer, wine and liquor stores in Canada from 2015 to 2020 (in billion Canadian dollars) (Statista, 2020)
